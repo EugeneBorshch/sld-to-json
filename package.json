@@ -1,0 +1,13 @@
+{
+  "name": "sld",
+  "description": "Generate JSON out of SLD xml",
+  "version": "0.0.0",
+  "main": "sld.js",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha --watch --reporter spec"
+  }
+}
